@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import logoX from './Gif/X.gif'
-import logoO from './Gif/O.gif'
+import logoX from './Gif/X.gif';
+import logoO from './Gif/O.gif';
 
 class App extends Component {
   constructor(props) {
